@@ -1,4 +1,4 @@
 # SimiosAlgoritm
 
-> Algoritmo que visuzaliza uma matriz e testa para saber se as informações são verdadeiras de acordo com o problema
-> SpockFramework - testes
+* Algorithm that visualises an array and tests to see if the information is true according to the problem
+* SpockFramework-for testing
